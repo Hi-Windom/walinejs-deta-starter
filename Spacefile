@@ -14,6 +14,16 @@ micros:
     # - curl -sf https://gobinaries.com/tj/node-prune | sh && node-prune
     presets:
       env:
+        # Hi-Windom extend ::stert
+        # https://waline.js.org/guide/features/notification.html#qq-%E9%80%9A%E7%9F%A5 ::start
+        - name: QMSG_KEY
+          description: The KEY provided by Qmsg Sauce is required.
+        - name: QQ_ID
+          description: The QQ numbers for receiving messages (QQ groups are not supported), multiple can be added and separated by a comma (all must be in your Qmsg Sauce QQ number list).
+        - name: AUTHOR_EMAIL
+          description: The blogger's email is used to distinguish whether the published comment is posted by the blogger himself/herself. If it is posted by the blogger, no reminder notification will be sent.
+        # https://waline.js.org/guide/features/notification.html#qq-%E9%80%9A%E7%9F%A5 ::end
+        # Hi-Windom extend ::end
         - name: LEAN_ID
           description: LeanCloud Application ID
         - name: LEAN_KEY
