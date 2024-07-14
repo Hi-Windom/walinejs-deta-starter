@@ -1,5 +1,5 @@
 ---
-app_name: "Waline"
+app_name: "Waline HWD"
 title: "Waline"
 tagline: "A Simple, Safe Comment System"
 theme_color: "#4E9DEF"
@@ -7,7 +7,6 @@ git: "https://github.com/walinejs/waline"
 homepage: "https://waline.js.org/en"
 open_code: true
 ---
-
 A simple comment system with backend support.
 
 ![Author](https://img.shields.io/badge/author-lizheming,%20Mr.Hope-blue?style=for-the-badge) ![License](https://img.shields.io/github/license/walinejs/waline?style=for-the-badge) [![qq](https://img.shields.io/badge/qq-waline交流群-f75137?logo=TencentQQ&style=for-the-badge)](https://jq.qq.com/?_wv=1027&k=bKoVBppG) [![telegram](https://img.shields.io/badge/telegram-walinejs-2ca5e0?logo=telegram&style=for-the-badge)](https://t.me/walinejs)

@@ -37,4 +37,3 @@ jobs:
           version: ${{ env.SPACE_VERSION }}
           notes: ${{ env.SPACE_NOTES }}
           listed: true
-          
